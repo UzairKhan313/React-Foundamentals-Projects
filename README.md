@@ -14,6 +14,7 @@ Welcome to the React Fundamentals Projects repository! This collection of projec
 8. **color-generator**: Random color palette generator.
 9. **navbar**: Basic navigation bar component.
 10. **sidebar**: Responsive sidebar component.
+11. **Grocery-Bud**: Grocery-Bud User can Add and Delete Items.
 
 ## Getting Started
 
