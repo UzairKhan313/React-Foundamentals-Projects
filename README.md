@@ -15,6 +15,8 @@ Welcome to the React Fundamentals Projects repository! This collection of projec
 9. **navbar**: Basic navigation bar component.
 10. **sidebar**: Responsive sidebar component.
 11. **Grocery-Bud**: Grocery-Bud User can Add and Delete Items.
+12. **Strapi**: Simple a Modren header UI.
+13. **Cart**: A shopping Cart with use Reducer in which can increase or decrease the item and can also clear the cart.
 
 ## Getting Started
 
