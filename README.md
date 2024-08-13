@@ -17,6 +17,7 @@ Welcome to the React Fundamentals Projects repository! This collection of projec
 11. **Grocery-Bud**: Grocery-Bud User can Add and Delete Items.
 12. **Strapi**: Simple a Modren header UI.
 13. **Cart**: A shopping Cart with use Reducer in which can increase or decrease the item and can also clear the cart.
+14. **Redux Toolkit**: A shopping Cart functionalty with Redux Toolkit. Firstly I worked with the cart Items which are in local storage and after that i worked with aysnchronouse task.
 
 ## Getting Started
 
