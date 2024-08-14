@@ -18,6 +18,12 @@ Welcome to the React Fundamentals Projects repository! This collection of projec
 12. **Strapi**: Simple a Modren header UI.
 13. **Cart**: A shopping Cart with use Reducer in which can increase or decrease the item and can also clear the cart.
 14. **Redux Toolkit**: A shopping Cart functionalty with Redux Toolkit. Firstly I worked with the cart Items which are in local storage and after that i worked with aysnchronouse task.
+15. **Grocery-Bud with React Query**: Grocery-Bud User can Add, update and Delete Items on the server and hanlding the state management wiht react query.
+
+## How to run Project 15 Grocery-Bud with React Query
+
+Clone the repo and got the react-query directory then server directory and type npm install and then npm start.
+After that navigate to the client directory and type npm install and then npm run dev.
 
 ## Getting Started
 
