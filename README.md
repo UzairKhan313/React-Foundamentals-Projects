@@ -19,6 +19,7 @@ Welcome to the React Fundamentals Projects repository! This collection of projec
 13. **Cart**: A shopping Cart with use Reducer in which can increase or decrease the item and can also clear the cart.
 14. **Redux Toolkit**: A shopping Cart functionalty with Redux Toolkit. Firstly I worked with the cart Items which are in local storage and after that i worked with aysnchronouse task.
 15. **Grocery-Bud with React Query**: Grocery-Bud User can Add, update and Delete Items on the server and hanlding the state management wiht react query.
+16. **The React Quiz APP**: The request quiz app allow user to test their knowledge about the react with the quiz app.
 
 ## How to run Project 15 Grocery-Bud with React Query
 
@@ -58,6 +59,28 @@ Each project follows a similar structure:
 src: Contains the source code of the React application.
 public: Holds static assets and the HTML file.
 README.md: Project-specific documentation.
+
+### Instruction Fro the Quiz App
+
+Navigate to the quiz app.
+
+1.  Install all the denpendecies.
+
+```bash
+npm install
+```
+
+2.  Run the fake server.
+
+```bash
+npm run server
+```
+
+3. Run the development Server frontedn.
+
+```bash
+npm run dev
+```
 
 ### Contributing
 
